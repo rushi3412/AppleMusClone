@@ -1,0 +1,26 @@
+/* .active-button {
+    color: #007bff; 
+  } */
+
+  /* .sidebar1 {
+    background-color: black;
+    border: 2px solid lightblue;
+  } */
+
+  .button {
+    border: 2px solid #4CAF50; /* Green */
+    background-color: white;
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+
+  /* .sidebarparent {
+    background-color: rgba(60, 60, 67, 0.03);
+    width: 260px;
+    height: 100vh;
+    border-right: 1px solid rgba(0, 0, 0, 0.15);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  } */
